@@ -2,7 +2,7 @@
 
 ## *Introduction*
 
-This project will create a Jupyter notebook that holds analsysis information on an ETF portfolio.
+This project will create a **Jupyter notebook** that holds analsysis information on an ETF portfolio.  This analysis will interact with a lot of **SQL databases** by using **SQL queries** to be read into **Pandas Dataframes**.
 
 ---
 
