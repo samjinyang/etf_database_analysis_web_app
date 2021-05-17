@@ -38,6 +38,14 @@ Multiple **SQL tables** will be joined using **inner join** to create a more com
 
 ---
 
+The final part of this analysis will involve using **Voilà** to launch the notebook in a web application for a cleaner visualization.  This is done through the **command line/terminal**, going to the directory where the **Jupyter notebook** is help, and then typing in **voila (name of Jupyter notebook)**.  You should see something like the following:
+
+![use4](https://user-images.githubusercontent.com/80929342/118418656-1894e100-b66e-11eb-9d62-568f6e421e77.JPG)
+
+![use5](https://user-images.githubusercontent.com/80929342/118418659-1af73b00-b66e-11eb-87b2-b58550815f04.JPG)
+
+---
+
 ## Contributors
 
 **I would like to thank and acknowledge my UCB FINTECH Class for their questions and input that contribute to the success and knowledge base for the class!**
